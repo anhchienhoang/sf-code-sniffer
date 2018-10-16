@@ -1,0 +1,5 @@
+{
+    "require": {
+        "escapestudios/symfony2-coding-standard": "^3.4"
+    }
+}
